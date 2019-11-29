@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lab4_NumericalMethods.dir/main.cpp.o  -o lab4_NumericalMethods 

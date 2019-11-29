@@ -1,0 +1,3 @@
+/home/lenovo/CLionProjects/lab2_NumericalMethods/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lenovo/CLionProjects/lab2_NumericalMethods/cmake-build-debug/CMakeFiles/lab2_NumericalMethods.dir
+/home/lenovo/CLionProjects/lab2_NumericalMethods/cmake-build-debug/CMakeFiles/edit_cache.dir
